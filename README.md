@@ -19,7 +19,7 @@ Lulu is an e-textile PCB for optical fibers light injection
  - E-testing : No
  - Shipping : Normal lead time
 
-# part list
+# Part list
  - LED OSRAM 350mA (http://aliexpress.com)
  - Brass tube 2 MM Hole X 10 MM Length (http://ebay.com)
  - JTE-1.5 en 8mm (http://www.jonction-et-derivation-electriques.fr)
