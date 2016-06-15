@@ -28,3 +28,4 @@ Lulu is an e-textile PCB for optical fibers light injection
 
 # TODO
  - add onboard small microcontroleur to allow bus addressing light control as WS2812 ;-)
+ - https://github.com/ytai/pixie
