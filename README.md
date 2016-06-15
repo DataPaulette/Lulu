@@ -27,5 +27,5 @@ Lulu is an e-textile PCB for optical fibers light injection
  - 35 optical fibres diameter 0.25mm ($ TODO)
 
 # TODO
- - add onboard small microcontroleur to allow bus addressing light control as WS2812 ;-)
+ - add onboard small microcontroleur to allow bus addressing light control like the WS2812 LEDs ;-)
  - https://github.com/ytai/pixie
